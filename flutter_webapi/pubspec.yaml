@@ -16,7 +16,13 @@ dependencies:
 
   uuid: ^4.4.0 #^3.0.6
 
-  google_fonts: ^6.2.1 #importando google fonts
+  google_fonts: ^4.0.0 #importando google fonts
+
+  http: ^0.13.4 #importando pacote http para API (requisições)
+
+  http_interceptor: ^1.0.2 #importanto http_interceptor (interceptadores)
+
+  logger: ^1.1.0
 
 dev_dependencies:
   flutter_test:
